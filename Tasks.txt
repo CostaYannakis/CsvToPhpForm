@@ -1,0 +1,15 @@
+Task ONE: (COMPLETE)
+  Create and settle on a CSV format, with the form attributes
+  Python to read CSV and mark up to a simple HTML form
+  
+Task TWO:(COMPLETE)
+  Introduce PHP for form handling
+
+Task THREE:
+  The ability to email the data
+
+Task FOUR:
+  Apply the team list
+  
+ OPTIONAL:
+  Save button

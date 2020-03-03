@@ -1,0 +1,10 @@
+11/2/2020 Created repo
+          Created Draw.io of basic flow
+          Settled on PHP, python and HTML as the languages to start with
+15/2/2020 created CSV format to use for the simplest list
+          stored in array in python
+18/2/2020 Added Style and Table elements
+
+
+          
+              
