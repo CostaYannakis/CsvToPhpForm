@@ -4,21 +4,7 @@ def create_html_form(thetitle, theheaders, theitems, thenofitems, thestates, the
     form = '<!DOCTYPE html>\n'
     form += '<html>\n'
     form += "<head>\n"
-    form += "<style>"
-    form += "table {\n"
-    form += "font-family: arial, sans-serif;\n"
-    form += "border-collapse: collapse;\n"
-    form += "width: 100%;\n"
-    form += "}\n"
-    form += "td, th {\n"
-    form += "border: 1px solid #dddddd;\n"
-    form += "text-align: left;\n"
-    form += "padding: 8px;\n"
-    form += "}\n"
-    form += "tr:nth-child(even) {\n"
-    form += "background-color: #dddddd;\n"
-    form += "}\n"
-    form += "</style>\n"
+    form += "<link rel='stylesheet' type='text/css' href='css\styles.css'>"
     form += "</head>\n"
     form += '<body>\n'
     form += "<form action='/php/results.php' method='post'>"
